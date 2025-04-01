@@ -1,0 +1,10 @@
+.card {
+  width: 95%;
+  max-width: 900px;
+  background-color: #252525;
+  box-shadow: 3px 3px 7px #1b1b1b;
+}
+
+.card .card-body {
+  color: #00e08d;
+}

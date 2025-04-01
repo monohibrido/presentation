@@ -1,0 +1,32 @@
+button.btn.btn-primary {
+  text-align: center;
+  background-color: #004173;
+  border: none;
+}
+
+button.btn.btn-primary:active {
+  background-color: #009ecc;
+}
+
+.card.card-body {
+  background-color: #0b5050;
+  color: #00e08d;
+  margin-bottom: 30px;
+}
+
+/**modal**/
+.modal-header,
+.modal-content,
+.modal-body {
+  background-color: #0b5050;
+  color: #00e08d;
+}
+
+button.btn.btn-secondary {
+  background-color: #004173;
+  border: none;
+}
+
+.logoIpss {
+  width: 300px;
+}
