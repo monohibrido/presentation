@@ -26,7 +26,7 @@ function Home() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/presentation">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
