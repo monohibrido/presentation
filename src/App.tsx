@@ -15,21 +15,21 @@ import "./components/Presentation.css";
 import "./components/Education.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
+function Home() {
+  return (
+    <>
+      <Presentation />
+      <Education />
+    </>
+  );
+}
+
 function App() {
   return (
     <Router>
       <Navbar />
       <Routes>
-        <Route
-          path="/"
-          element={
-            <>
-              <Presentation />
-              <Education />
-            </>
-          }
-        />
-
+        <Route path="/" element={<Home />} />
         <Route path="/skills" element={<SkillsAndProjects />} />
         <Route path="/experience" element={<Experience />} />
       </Routes>
