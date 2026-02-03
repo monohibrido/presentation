@@ -1,0 +1,8 @@
+.logopython,
+.logohtml5,
+.logophp,
+.logosql {
+  width: 100px; /* tamaño fijo */
+  height: 100px;
+  object-fit: contain;
+}

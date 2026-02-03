@@ -1,0 +1,6 @@
+.logoIpss,
+.logoUcen {
+  max-width: 100%; /* ancho máximo */
+  max-height: 150px; /* alto máximo */
+  object-fit: contain; /* ajusta dentro del cuadro sin deformar */
+}
