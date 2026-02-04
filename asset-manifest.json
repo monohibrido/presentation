@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/presentation/static/css/main.1dbe4c54.css",
-    "main.js": "/presentation/static/js/main.ba58d52a.js",
+    "main.css": "/presentation/static/css/main.5bc11d8c.css",
+    "main.js": "/presentation/static/js/main.2d727d81.js",
+    "static/media/foto_perfil.png": "/presentation/static/media/foto_perfil.ea08978af6d6f364ea0d.png",
     "static/media/logo_php.png": "/presentation/static/media/logo_php.15c250be85adb4b25dac.png",
     "static/media/logo_html5.png": "/presentation/static/media/logo_html5.75cf8fff954116f40db7.png",
     "static/media/LogoUCEN.png": "/presentation/static/media/LogoUCEN.65e0e1de2e32670af6c2.png",
+    "static/media/certiprof.jpg": "/presentation/static/media/certiprof.b9b94a99030487da7444.jpg",
     "static/media/logo_sql.png": "/presentation/static/media/logo_sql.02115be75937902eea69.png",
     "static/media/logo_python.png": "/presentation/static/media/logo_python.db3978c092982a6c150a.png",
     "static/media/logo_ipss_web.png": "/presentation/static/media/logo_ipss_web.344f5164a3f49022bb7c.png",
     "static/media/gwa.jpg": "/presentation/static/media/gwa.88af40afa935985d55bc.jpg",
     "static/media/gwf.jpg": "/presentation/static/media/gwf.8ef10cf4825b9d94f6f0.jpg",
+    "static/media/cv2026.pdf": "/presentation/static/media/cv2026.d65ea9637987789c3932.pdf",
     "index.html": "/presentation/index.html",
-    "main.1dbe4c54.css.map": "/presentation/static/css/main.1dbe4c54.css.map",
-    "main.ba58d52a.js.map": "/presentation/static/js/main.ba58d52a.js.map"
+    "main.5bc11d8c.css.map": "/presentation/static/css/main.5bc11d8c.css.map",
+    "main.2d727d81.js.map": "/presentation/static/js/main.2d727d81.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dbe4c54.css",
-    "static/js/main.ba58d52a.js"
+    "static/css/main.5bc11d8c.css",
+    "static/js/main.2d727d81.js"
   ]
 }
