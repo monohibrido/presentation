@@ -17,18 +17,6 @@ function Experience() {
               Admin Google WorkSpace.
             </p>
           </div>
-          <div className="col-12 d-flex justify-content-center align-items-center gap-3">
-            <img
-              src={logogoogle}
-              alt="img google workspace"
-              className="logogoogle img-fluid"
-            />
-            <img
-              src={logogooglefund}
-              alt="img google workspace"
-              className="logogooglefund img-fluid"
-            />
-          </div>
         </div>
       </div>
     </div>

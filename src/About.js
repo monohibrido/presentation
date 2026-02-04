@@ -1,6 +1,7 @@
 import React from "react";
 import logoIpss from "../src/images/logo_ipss_web.png";
 import logoUcen from "../src/images/LogoUCEN.png";
+import fotoPerfil from "../src/images/foto_perfil.png";
 
 import "./About.css";
 
@@ -8,17 +9,11 @@ function About() {
   return (
     <div id="about" className="container mt-5">
       <h1>About me</h1>
-      <div className="row mt-4">
-        {/* Columna de la imagen */}
-        <div className="col-md-3 ">
-          <img
-            src="https://via.placeholder.com/200"
-            alt="Cristian"
-            className="img-fluid rounded"
-          />
+      <div className="row align-items-center">
+        <div className=" col-md-3 text-center">
+          <img className="fotoPerfil img-fluid" src={fotoPerfil} alt="Logo" />
         </div>
 
-        {/* Columna del texto */}
         <div className="col-md-9">
           <p>
             My name is Cristian and I dedicate myself to the immense world of

@@ -2,7 +2,7 @@
 .logohtml5,
 .logophp,
 .logosql {
-  width: 100px; /* tamaño fijo */
+  width: 100px;
   height: 100px;
   object-fit: contain;
 }

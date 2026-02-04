@@ -2,8 +2,14 @@ function Navbar({ onNavigate }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">
-          Mi CV
+        <a
+          className="navbar-brand"
+          href="#"
+          data-bs-toggle="modal"
+          data-bs-target="#cvModal"
+        >
+          {" "}
+          Mi CV{" "}
         </a>
         <ul className="navbar-nav ms-auto">
           <li className="nav-item">

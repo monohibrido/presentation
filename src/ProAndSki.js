@@ -3,7 +3,12 @@ import logopython from "../src/images/logo_python.png";
 import logohtml5 from "../src/images/logo_html5.png";
 import logophp from "../src/images/logo_php.png";
 import logosql from "../src/images/logo_sql.png";
+import logoscrum from "../src/images/certiprof.jpg";
+import logogooglefund from "../src/images/gwf.jpg";
 import "./ProAndSki.css";
+
+import { PhotoProvider, PhotoView } from "react-photo-view";
+import "react-photo-view/dist/react-photo-view.css";
 
 function Experience() {
   return (
@@ -47,6 +52,42 @@ function Experience() {
           </div>
         </div>
       </div>
+
+      <div className="card card-body col-8 mt-4">
+        <div className="row">
+          <h5>Certifications</h5>
+          <div className="col-12 d-flex justify-content-center align-items-center flex-wrap gap-3">
+            <PhotoProvider>
+              <PhotoView src={logoscrum}>
+                <img
+                  src={logoscrum}
+                  alt="Diploma"
+                  style={{ width: "200px", cursor: "pointer" }}
+                />
+              </PhotoView>
+            </PhotoProvider>
+            <PhotoProvider>
+              <PhotoView src={logogoogle}>
+                <img
+                  src={logogoogle}
+                  alt="Diploma"
+                  style={{ width: "200px", cursor: "pointer" }}
+                />
+              </PhotoView>
+            </PhotoProvider>
+            <PhotoProvider>
+              <PhotoView src={logogooglefund}>
+                <img
+                  src={logogooglefund}
+                  alt="Diploma"
+                  style={{ width: "200px", cursor: "pointer" }}
+                />
+              </PhotoView>
+            </PhotoProvider>
+          </div>
+        </div>
+      </div>
+
       <div className="card card-body col-8 mt-4 mb-4">
         <div className="row">
           <div className=" d-flex flex-column justify-content-start ">
