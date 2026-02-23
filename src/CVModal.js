@@ -1,5 +1,5 @@
 import cvPreview from "../src/images/logo_pdf.png";
-import cvFile from "../src/docs/cv2026.pdf";
+import cvFile from "../src/docs/cv_cristian_orellana_2026.pdf";
 
 function CVModal() {
   return (
@@ -24,7 +24,7 @@ function CVModal() {
             />
             <a
               href={cvFile}
-              download="Cristian_CV.pdf"
+              download="cristian_orellana_2026.pdf"
               className="btn btn-success"
             >
               Descargar CV

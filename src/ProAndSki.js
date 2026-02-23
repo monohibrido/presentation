@@ -3,6 +3,7 @@ import logopython from "../src/images/logo_python.png";
 import logohtml5 from "../src/images/logo_html5.png";
 import logophp from "../src/images/logo_php.png";
 import logosql from "../src/images/logo_sql.png";
+import logoangular from "../src/images/logo_angular.png";
 import logoscrum from "../src/images/certiprof.jpg";
 import logogooglefund from "../src/images/gwf.jpg";
 import "./ProAndSki.css";
@@ -29,6 +30,11 @@ function Experience() {
             </p>
           </div>
           <div className="col-12 d-flex justify-content-center align-items-center flex-wrap gap-3">
+            <img
+              src={logoangular}
+              alt="img logo angular"
+              className="logoangular img-fluid"
+            />
             <img
               src={logopython}
               alt="img logo python"
@@ -98,7 +104,9 @@ function Experience() {
               <br />
               <strong>FRONTEND</strong> <br />
               - HTML | CSS | JS
-              <br />- Basic knowledge in React-DOM <br />
+              <br />- React-DOM <br />
+              - Angular | Typescript
+              <br />
               <br />
               <strong>BACKEND</strong> <br />- PHP <br />
               <br />
@@ -107,6 +115,11 @@ function Experience() {
             </p>
           </div>
           <div className="col-12 d-flex justify-content-center align-items-center flex-wrap gap-3">
+            <img
+              src={logoangular}
+              alt="img logo angular"
+              className="logoangular img-fluid"
+            />
             <img
               src={logopython}
               alt="img logo python"
