@@ -20,11 +20,13 @@ function Experience() {
           <div className=" d-flex flex-column justify-content-start ">
             <h5>Projects</h5>
             <p>
+              - Application Web "Chile Economic Indicators" through an API
+              mindicador.cl <strong>in Angular</strong>
+              <br />
               - Python scripts to automate windows jobs.
               <br />
               - Contact List in Python alongside Tkinter. <br />
               - Muscle Mass Index Calculator web application. <br />
-              - Snake game in javascript. <br />
               - Inventory CRUD in Laravel and PHP. <br />
               - Calculation of the footprint water in Javascript and PHP. <br />
             </p>
