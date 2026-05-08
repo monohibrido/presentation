@@ -17,8 +17,7 @@ function About() {
         <div className="col-md-9">
           <p>
             My name is Cristian and I dedicate myself to the immense world of
-            programming. My tastes are focused on web programming and desktop
-            applications. I am excited to be able to expand my knowledge in my
+            programming. My tastes are focused on web programming. I am excited to be able to expand my knowledge in my
             profession. I work methodically thanks to the years I worked as a
             teacher. I don't work badly alone, but I always prefer to be with a
             team; I consider the work environment important and beneficial for
