@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/presentation/static/css/main.95a33971.css",
-    "main.js": "/presentation/static/js/main.d7aac1a5.js",
+    "main.css": "/presentation/static/css/main.fffe84ad.css",
+    "main.js": "/presentation/static/js/main.99ef2c8f.js",
     "static/media/foto_perfil.png": "/presentation/static/media/foto_perfil.ea08978af6d6f364ea0d.png",
-    "static/media/logo_php.png": "/presentation/static/media/logo_php.15c250be85adb4b25dac.png",
+    "static/media/logo_typescript.png": "/presentation/static/media/logo_typescript.5bdb66b4539924aeadd6.png",
     "static/media/logo_html5.png": "/presentation/static/media/logo_html5.75cf8fff954116f40db7.png",
+    "static/media/logo_nodejs.png": "/presentation/static/media/logo_nodejs.9dd435e75947e1300656.png",
     "static/media/LogoUCEN.png": "/presentation/static/media/LogoUCEN.65e0e1de2e32670af6c2.png",
     "static/media/certiprof.jpg": "/presentation/static/media/certiprof.b9b94a99030487da7444.jpg",
     "static/media/logo_sql.png": "/presentation/static/media/logo_sql.02115be75937902eea69.png",
@@ -15,11 +16,11 @@
     "static/media/cv_cristian_orellana_2026.pdf": "/presentation/static/media/cv_cristian_orellana_2026.66a58947d2e5402a8ad9.pdf",
     "static/media/logo_angular.png": "/presentation/static/media/logo_angular.2b71ab40d114336c21c1.png",
     "index.html": "/presentation/index.html",
-    "main.95a33971.css.map": "/presentation/static/css/main.95a33971.css.map",
-    "main.d7aac1a5.js.map": "/presentation/static/js/main.d7aac1a5.js.map"
+    "main.fffe84ad.css.map": "/presentation/static/css/main.fffe84ad.css.map",
+    "main.99ef2c8f.js.map": "/presentation/static/js/main.99ef2c8f.js.map"
   },
   "entrypoints": [
-    "static/css/main.95a33971.css",
-    "static/js/main.d7aac1a5.js"
+    "static/css/main.fffe84ad.css",
+    "static/js/main.99ef2c8f.js"
   ]
 }
