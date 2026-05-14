@@ -17,7 +17,7 @@ function Experience() {
   return (
     <div id="experience" className="container mt-5">
       <h1>Projects & Skills</h1>
-      <div className="card card-body col-8 mt-4">
+      <div className="card card-body col col-12 col-lg-8 mt-4">
         <div className="row">
           <div className=" d-flex flex-column justify-content-start ">
             <h5>Projects</h5>
@@ -94,7 +94,7 @@ function Experience() {
         </div>
       </div>
 
-      <div className="card card-body col-8 mt-4">
+      <div className="card card-body col col-12 col-lg-8 mt-4">
         <div className="row">
           <h5>Certifications</h5>
           <div className="col-12 d-flex justify-content-center align-items-center flex-wrap gap-3">
@@ -129,7 +129,7 @@ function Experience() {
         </div>
       </div>
 
-      <div className="card card-body col-8 mt-4 mb-4">
+      <div className="card card-body col col-12 col-lg-8 mt-4">
         <div className="row">
           <div className=" d-flex flex-column justify-content-start ">
             <h5>Skills</h5>
