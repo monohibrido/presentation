@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/presentation/static/css/main.fffe84ad.css",
-    "main.js": "/presentation/static/js/main.99ef2c8f.js",
+    "main.js": "/presentation/static/js/main.4217be4b.js",
     "static/media/foto_perfil.png": "/presentation/static/media/foto_perfil.ea08978af6d6f364ea0d.png",
     "static/media/logo_typescript.png": "/presentation/static/media/logo_typescript.5bdb66b4539924aeadd6.png",
     "static/media/logo_html5.png": "/presentation/static/media/logo_html5.75cf8fff954116f40db7.png",
@@ -13,14 +13,14 @@
     "static/media/logo_ipss_web.png": "/presentation/static/media/logo_ipss_web.344f5164a3f49022bb7c.png",
     "static/media/gwa.jpg": "/presentation/static/media/gwa.88af40afa935985d55bc.jpg",
     "static/media/gwf.jpg": "/presentation/static/media/gwf.8ef10cf4825b9d94f6f0.jpg",
-    "static/media/cv_cristian_orellana_2026.pdf": "/presentation/static/media/cv_cristian_orellana_2026.66a58947d2e5402a8ad9.pdf",
+    "static/media/cv_cristian_orellana_2026.pdf": "/presentation/static/media/cv_cristian_orellana_2026.6fc3e021d5759a57d71c.pdf",
     "static/media/logo_angular.png": "/presentation/static/media/logo_angular.2b71ab40d114336c21c1.png",
     "index.html": "/presentation/index.html",
     "main.fffe84ad.css.map": "/presentation/static/css/main.fffe84ad.css.map",
-    "main.99ef2c8f.js.map": "/presentation/static/js/main.99ef2c8f.js.map"
+    "main.4217be4b.js.map": "/presentation/static/js/main.4217be4b.js.map"
   },
   "entrypoints": [
     "static/css/main.fffe84ad.css",
-    "static/js/main.99ef2c8f.js"
+    "static/js/main.4217be4b.js"
   ]
 }
